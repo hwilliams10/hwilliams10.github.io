@@ -34,7 +34,7 @@ Imagine we had another set of equally valid training data that we wanted to chec
 
 <img src="../assets/img/post1/targets.jpg" width="500"/>
 
-*Image inspired/adapted from:https://epogrebnyak.github.io/econometrics-navigator/topics/bias_variance_tradeoff.html*
+*Image inspired/adapted from [this](https://epogrebnyak.github.io/econometrics-navigator/topics/bias_variance_tradeoff.html) Econometrics Navigator post*
 
 In an ideal world, our models would have low variance *and* low bias and would give us perfect predictions every time (or "hit the bullseye"!). Unfortunately this is not possible because you can only decrease one by increasing the other.  To reduce bias, we need to start fitting our example data more closely...but this increases the variance. Likewise, to decrease variance, we need to reduce our reliance on the example data...but this increases our bias. 
 
@@ -42,7 +42,7 @@ Consider this plot:
 
 <img src="../assets/img/post1/Error_plot.jpg" width="500"/>
 
-*Image inspired/adapted from: http://scott.fortmann-roe.com/docs/BiasVariance.html*
+*Image inspired/adapted from [this](http://scott.fortmann-roe.com/docs/BiasVariance.html) blog post by Scott Fortmann-Roe*
 
 Our best model is actually not the one with lowest bias or lowest variance, it's where we find an optimum balance between the two. This is why we call it a "tradeoff". 
 
