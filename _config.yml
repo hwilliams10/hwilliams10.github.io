@@ -13,7 +13,7 @@ author: Holly Williams
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
+  # Blog: "blog"
   Publications: "publications"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
