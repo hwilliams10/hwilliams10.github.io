@@ -20,9 +20,9 @@ You realize that you made a mistake in being too general, so now you give your f
 
 ### So how does this relate to machine learning models?
 
-Trying to find a balance between being "too general" and "too specific" is also a challenge with developing machine learning models.  This is what people are referring to when they talk about **bias-variance tradeoff***. 
+Trying to find a balance between being "too general" and "too specific" is also a challenge with developing machine learning models.  This is exactly what people are referring to when they talk about the **bias-variance tradeoff**. 
 
-Machine learning algorithms use training data to develop a model, and then we check the model against test data to see how well it works.  If our model is too general, we say it is **underfitted** and has a **high-bias**.  This means our model might be too simple to capture the key relationship or pattern. If it is too specific, we say it is **overfitted** and has a **high-variance**. This means our model fits our example data really well, but might not be very good at making predictions.
+Machine learning algorithms use training data to develop a model, and then we check the model against test data to see how well it works.  If our model is too general, we say it is *underfitted* and has a ***high-bias***.  This means our model might be too simple to capture the key relationship or pattern. If it is too specific, we say it is *overfitted* and has a ***high-variance***. This means our model fits our example data really well, but might not be very good at making predictions.
 
 The two plots below show extreme examples of underfitting and overfitting.  The black x's represent the training data, and the blue and green lines show the relationship that the model developed. 
 
@@ -30,7 +30,7 @@ The two plots below show extreme examples of underfitting and overfitting.  The 
 
 Neither example looks like it would do a good job at predicting the next point.  
 
-Imagine we had another set of equally valid training data that we wanted to check our model against.  The underfitted/high-bias model relationship is so general that it would likely give similar predictions for another set of data (even though they might not be anywhere near the right answer). The overfitted/high-variance model relationship is so complex and sensitive to the training data that it would likely give very different predictions for another set of data.  If we were to measure our predictions against the desired output (or target), we would see that high-bias model predictions plot closely together (but not necessarily near the target), and that high-variance model predictions are more scattered:
+Imagine we had another set of equally valid training data that we wanted to check our model against.  The ***underfitted/high-bias*** model relationship is so general that it would likely give similar predictions for another set of data (even though they might not be anywhere near the right answer). The ***overfitted/high-variance*** model relationship is so complex and sensitive to the training data that it would likely give very different predictions for another set of data.  If we were to measure our predictions against the desired output (or target), we would see that high-bias model predictions plot closely together (but not necessarily near the target), and that high-variance model predictions are more scattered:
 
 <img src="../assets/img/post1/targets.jpg" width="500"/>
 
