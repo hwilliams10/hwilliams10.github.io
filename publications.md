@@ -31,11 +31,11 @@ supernatant pond needs to be considered as it is just as important, if not more 
 they are more susceptible to overtopping, piping and liquefaction failures. In addition, they pose greater failure consequences as the saturated conditions will lead to more material being mobilised.
 This paper has reviewed available information on a number of tailings dam failures and proposes an alternative estimation of potential tailings release volumes as a function of supernatant water stored on the facility for use in dam-break analyses. In a broader sense, the paper seeks to shift the current risk paradigm from tailings dam heights to volumes of water stored and provides a basis for continuing research and discussion.*
 
-### Best Practice Guidelines for Landbridge Closure
+#### Best Practice Guidelines for Landbridge Closure
 
-Rourke, H. and Linero, S. 2014. Article in the AusIMM Bulletin on Mine Rehabilitation
+*Rourke, H. and Linero, S. 2014. Article in the AusIMM Bulletin on Mine Rehabilitation*
 
-*Landbridges used in a mining environment can be defined as "structures constructed of earthen materials to facilitate access between high points in the natural landscape”. Landbridges are typically used for transportation within mining areas and can be constructed by end-tipping readily available fill such as waste rock.  Landbridges are similar to haul roads in that they are used for transportation within mining areas, and like waste dumps can be constructed by end-tipping waste rock fill.  However landbridges are unique structures that require special analysis because of their potential to impede watercourses..  Recently, SRK was approached by an operator seeking assistance in developing closure guidelines for landbridges at one of their operations. An extensive literature review found no current legislation, regulation, or industry best practice relating to the closure of these structures. This article details the framework that was developed to determine appropriate closure solutions for landbridges to achieve pre-defined closure objectives.*
+This article describes a framework for developing industry best practice closure guidelines for landbridges (landbridges used in a mining environment can be defined as "structures constructed of earthen materials to facilitate access between high points in the natural landscape”). Landbridges are similar to haul roads in that they are used for transportation within mining areas, and like waste dumps can be constructed by end-tipping waste rock fill.  However landbridges are unique structures that require special analysis because of their potential to impede watercourses. [[READ MORE](/puclication_pages/2014_ausimm_landbridges.md)...]
 
 ### Liquefaction assessments of tailings facilities in low-seismic areas
 
