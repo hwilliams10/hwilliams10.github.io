@@ -6,7 +6,7 @@ cover-img: img/landbridges1.jpg
 tags: [mine-closure, remediation, landbridges]
 ---
 
-*This article originally appeared in AusIMM Bulletin 57 on Mine Rehabilitation (2014)*b
+*This article originally appeared in AusIMM Bulletin 57 on Mine Rehabilitation (2014)*
 
 #### Introduction 
 
