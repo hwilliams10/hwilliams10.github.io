@@ -2,7 +2,7 @@
 layout: page
 title: Best Practice Guidelines for Landbridge Closure
 subtitle: Article in AusIMM Bulletin on Mine Rehabilitation (2014)
-cover-img: /img/landbridge1.jpg
+cover-img: /img/landbridges1.jpg
 tags: [mine-closure, remediation, landbridges]
 ---
 
