@@ -35,7 +35,7 @@ This paper has reviewed available information on a number of tailings dam failur
 
 *Rourke, H. and Linero, S. 2014. Article in the AusIMM Bulletin on Mine Rehabilitation*
 
-This article describes a framework for developing industry best practice closure guidelines for landbridges (landbridges used in a mining environment can be defined as "structures constructed of earthen materials to facilitate access between high points in the natural landscape”). Landbridges are similar to haul roads in that they are used for transportation within mining areas, and like waste dumps can be constructed by end-tipping waste rock fill.  However landbridges are unique structures that require special analysis because of their potential to impede watercourses. [[READ MORE](/puclication_pages/2014_ausimm_landbridges.md)...]
+This article describes a framework for developing industry best practice closure guidelines for landbridges. Landbridges are similar to haul roads in that they are used for transportation within mining areas, and like waste dumps can be constructed by end-tipping waste rock fill.  However landbridges are unique structures that require special analysis because of their potential to impede watercourses...[[**Read More**](/publication_pages/2014_ausimm_landbridges)]
 
 ### Liquefaction assessments of tailings facilities in low-seismic areas
 
