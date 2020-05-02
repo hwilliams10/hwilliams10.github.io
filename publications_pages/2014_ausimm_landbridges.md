@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Best Practice Guidelines for Landbridge Closure
-subtitle: Article in AusIMM Bulletin on Mine Rehabilitation (2014)
-cover-img: /img/landbridges1.jpg
+subtitle: by Holly Rourke and Sandra Linero
+cover-img: img/landbridges1.jpg
 tags: [mine-closure, remediation, landbridges]
 ---
 
-*by Holly Rourke and Sandra Linero*
+*This article originally appeared in AusIMM Bulletin 57 on Mine Rehabilitation (2014)*b
 
 #### Introduction 
 
@@ -23,7 +23,7 @@ SRK adopted a risk-based closure framework based on relevant guidelines that con
 •	identification and selection of closure options 
 •	verification of risk reduction
 
-<img src="/img/landbridges2.jpg"/>
+<img src="img/landbridges2.jpg"/>
 
 *Closure approach flow diagram*
 
@@ -35,7 +35,7 @@ Landbridges that will eventually fall into planned pit areas or be covered by a 
 
 The remaining landbridges are then sub-divided into segments based on three types of fill configuration: cross-valley fills, ridge crest fills, and sidehill fills. Any landbridge may comprise multiple fill segments that will each require individual analysis because of the differing hazards. l. 
 
-<img src="/img/landbridges3.jpg"/>
+<img src="img/landbridges3.jpg"/>
 
 *Landbridge subdivisions*
 
