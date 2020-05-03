@@ -24,7 +24,7 @@ Hockley, D. and Rourke, H. 2018. Presentation to COSIA 2018 Oil Sands Innovation
 
 ### The risks of excess water on tailings facilities and its application to dam break studies
 
-*Rourke, H. and Luppnow, D. 2015.  Tailings 2015. Sydney, Australia. *
+*Rourke, H. and Luppnow, D. 2015.  Tailings 2015. Sydney, Australia.*
 
 This paper has reviewed available information on a number of tailings dam failures and proposes an alternative estimation of potential tailings release volumes as a function of supernatant water stored on the facility for use in dam-break analyses. In a broader sense, the paper seeks to shift the current risk paradigm from tailings dam heights to volumes of water stored and provides a basis for continuing research and discussion...[[**Read More**](/publications_pages/2015_tailings_dambreak)]
 
