@@ -12,4 +12,6 @@ ABSTRACT: It is widely recognised that dam-break assessments are a vital tool in
 
 This paper has reviewed available information on a number of tailings dam failures and proposes an alternative estimation of potential tailings release volumes as a function of supernatant water stored on the facility for use in dam-break analyses. In a broader sense, the paper seeks to shift the current risk paradigm from tailings dam heights to volumes of water stored and provides a basis for continuing research and discussion.
 
-Links: [Download Full PDF](https://www.srk.com/download/file/627),  [SRK paper page](https://www.srk.com/en/publications/the-risks-of-excess-water-on-tailings-facilities-and-its-application-to-dam-break-studies)
+**Links:** 
+ - [Download PDF](https://www.srk.com/download/file/627)
+ - [SRK paper page](https://www.srk.com/en/publications/the-risks-of-excess-water-on-tailings-facilities-and-its-application-to-dam-break-studies)
