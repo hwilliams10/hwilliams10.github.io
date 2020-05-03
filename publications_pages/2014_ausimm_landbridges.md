@@ -17,11 +17,11 @@ Landbridges used in a mining environment can be defined as “structures constru
 There is an abundance of information on industry best practices and legislation for the closure of structures such as haul roads and waste dumps, and many operators  have developed internal guidelines for these structures.    In some cases landbridges or portions of landbridges can be considered as haul roads or waste dumps and closed using site-specific or generic industry best practices (if site-specific guidelines are not in place).  In other cases, specific landbridge guidance is required. 
 
 SRK adopted a risk-based closure framework based on relevant guidelines that consideredincorporated site-specific data and closure objectives. The approach has been developed assuming site-specific closure objectives are already in place and are well understood. Typical objectives include providing a safe and stable landform, ensuring compatibility with the surrounding environment, and preventing the need for long-term maintenance and liability. The framework is presented as a series of steps that can be applied for landbridges at any operation and comprises the following:
-•	inventory preparation
-•	technical checks
-•	preliminary risk assessment
-•	identification and selection of closure options 
-•	verification of risk reduction
+ - inventory preparation
+ - technical checks
+ - preliminary risk assessment
+ - identification and selection of closure options 
+ - verification of risk reduction
 
 ![Closure approach flow diagram](/img/landbridges2.jpg)
 
@@ -31,9 +31,9 @@ Inventory involves gathering and compiling all known information on each landbri
 
 Landbridges that will eventually fall into planned pit areas or be covered by a future waste dump are screened and separated from the analysis.
 
-The remaining landbridges are then sub-divided into segments based on three types of fill configuration: cross-valley fills, ridge crest fills, and sidehill fills. Any landbridge may comprise multiple fill segments that will each require individual analysis because of the differing hazards. l. 
+The remaining landbridges are then sub-divided into segments based on three types of fill configuration: cross-valley fills, ridge crest fills, and sidehill fills. Any landbridge may comprise multiple fill segments that will each require individual analysis because of the differing hazards. 
 
-<img src="img/landbridges3.jpg"/>
+<img src="/img/landbridges3.jpg"/>
 
 *Landbridge subdivisions*
 

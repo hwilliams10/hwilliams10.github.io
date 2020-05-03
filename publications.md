@@ -33,7 +33,7 @@ This paper has reviewed available information on a number of tailings dam failur
 
 #### Best Practice Guidelines for Landbridge Closure
 
-*Rourke, H. and Linero, S. 2014. Article in the AusIMM Bulletin on Mine Rehabilitation*
+*Rourke, H. and Linero, S. 2014. Article in the AusIMM Bulletin on Mine Rehabilitation. Australia*
 
 This article describes a framework for developing industry best practice closure guidelines for landbridges. Landbridges are similar to haul roads in that they are used for transportation within mining areas, and like waste dumps can be constructed by end-tipping waste rock fill.  However landbridges are unique structures that require special analysis because of their potential to impede watercourses...[[**Read More**](/publications_pages/2014_ausimm_landbridges)]
 
@@ -41,9 +41,7 @@ This article describes a framework for developing industry best practice closure
 
 *Rourke, H. and Holmes, C. 2013. Tailings and Mine Waste 2013. Banff, Canada.*
 
-This paper evaluated two commonly used procedures developed by Robertson (2010), and Idriss & Boulanger (2008) for determining liquefaction potential and identified a gap between the methodologies for assessing the liquefaction potential for tailings facilities in areas with low seismicity that requires further research...[[**Read More**]()]
-
-*ABSTRACT: It is widely recognised that piezocone (CPTu) testing is a valuable technique for identifying the in situ engineering properties of tailings for use in stability and liquefaction assessments. Nu-merous empirical procedures have been developed to relate the results of piezocone testing to liquefaction potential.  Appropriate assessments are particularly important for upstream raised tailings facilities which have an inherently higher risk of failure due to liquefaction following seismic events.  This paper evaluates two commonly used procedures developed by Robertson (2010), and Idriss & Boulanger (2008) for determining liquefaction potential.  These procedures calculate the factor of safety against liquefaction by comparing the cyclic resistance ratio (CRR) to the seismically induced cyclic stress ratio (CSR).  During the design of an upstream raise to a tailings facility in Western Australia, it was found that Robertson’s approach leads to improved estimates of the CRR by considering the influence of fines content.  Idriss & Boulanger’s recommendation of a cut-off value for earthquake magnitude scaling factors and magnitude-dependent stress-reduction coefficients offers a more conservative estimate of the CSR, particularly where the design earthquake magnitude is less than 7. The case study identified a gap between the methodologies for assessing the liquefaction potential for tailings facilities in areas with low seismicity that requires further research.*
+This paper evaluated two commonly used procedures developed by Robertson (2010), and Idriss & Boulanger (2008) for determining liquefaction potential and identified a gap between the methodologies for assessing the liquefaction potential for tailings facilities in areas with low seismicity that requires further research...[[**Read More**](/publications_pages/2015_tmw_liquefaction)]
 
 
 
