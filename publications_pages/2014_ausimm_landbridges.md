@@ -2,7 +2,7 @@
 layout: page
 title: Best Practice Guidelines for Landbridge Closure
 subtitle: by Holly Rourke and Sandra Linero
-cover-img: img/landbridges1.jpg
+cover-img: ./img/landbridges1.jpg
 tags: [mine-closure, remediation, landbridges]
 ---
 
@@ -23,7 +23,7 @@ SRK adopted a risk-based closure framework based on relevant guidelines that con
 •	identification and selection of closure options 
 •	verification of risk reduction
 
-<img src="img/landbridges2.jpg"/>
+<img src="./img/landbridges2.jpg"/>
 
 *Closure approach flow diagram*
 
