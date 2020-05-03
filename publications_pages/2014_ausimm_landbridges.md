@@ -2,7 +2,7 @@
 layout: page
 title: Best Practice Guidelines for Landbridge Closure
 subtitle: by Holly Rourke and Sandra Linero
-cover-img: /img/landbridges1.jpg
+cover-img: /publications_pages/img/landbridges1.jpg
 tags: [mine-closure, remediation, landbridges]
 ---
 
@@ -25,6 +25,8 @@ SRK adopted a risk-based closure framework based on relevant guidelines that con
 
 ![Closure approach flow diagram](/img/landbridges2.jpg)
 
+*Figure 1: Closure approach flow diagram*
+
 #### Inventory
 
 Inventory involves gathering and compiling all known information on each landbridge.  The inventory typically includes details on construction methods, landform geometry, current and final land use, geotechnical and geochemical characteristics of the construction material, proximity to planned or future mining infrastructure, and interaction with natural features (i.e. catchments, drainage lines, proximity to protected areas). 
@@ -33,9 +35,9 @@ Landbridges that will eventually fall into planned pit areas or be covered by a 
 
 The remaining landbridges are then sub-divided into segments based on three types of fill configuration: cross-valley fills, ridge crest fills, and sidehill fills. Any landbridge may comprise multiple fill segments that will each require individual analysis because of the differing hazards. 
 
-<img src="/img/landbridges3.jpg"/>
+![Landbridge subdivisions](/img/landbridges3.jpg)
 
-*Landbridge subdivisions*
+*Figure 2: Landbridge subdivisions*
 
 #### Technical checks
 
