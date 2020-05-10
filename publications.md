@@ -2,7 +2,10 @@
 title: Publications
 ---
 
-## Geoenvironmental / Tailings Engineering Publications (as Holly Rourke)
+## Geoenvironmental / Tailings Engineering Publications 
+### (as Holly Rourke)
+
+
 
 ### Assessing oil sands consolidation parameters relative to long-term reclamation
 
