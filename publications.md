@@ -2,25 +2,23 @@
 title: Publications
 ---
 
-(as Holly Rourke)
+## Geoenvironmental / Tailings Engineering Publications (as Holly Rourke)
 
 ### Assessing oil sands consolidation parameters relative to long-term reclamation
 
-Rourke, H. and Hockley, D. 2018. Tailings and Mine Waste 2018. Keystone, USA.
+*Rourke, H. and Hockley, D. 2018. Tailings and Mine Waste 2018. Keystone, USA.*
 
-*The reclamation of tailings deposits is dependent upon long-term consolidation, which deter-mines both the final storage volume and ultimate deposit strength.  Very soft materials like floc-culated mature fine tailings undergo large deformations during consolidation.  Describing this “large strain consolidation” requires non-linear equations for compressibility and hydraulic conductivity as functions of void ratio or effective stress.  Typically, these equations are input to a finite strain consolidation model to estimate overall consolidation rates.  This paper presents a robust sensitivity analysis to examine the effects of material property functions and design vari-ables on consolidation model results.  The tested variables included compressibility constants, hydraulic conductivity constants, years of deposition, rate of rise, specific gravity, initial solids content, and surcharge load application.  Interpretation of the results identified clear patterns and dimensionless groupings that can be used as indicators of ultimate consolidation perfor-mance.*
+he reclamation of tailings deposits is dependent upon long-term consolidation, which determines both the final storage volume and ultimate deposit strength. This paper presents a robust sensitivity analysis to examine the effects of material property functions and design variables on consolidation model results...[[**Read More**](/publications_pages/2018_tmw_consolidation)]
 
-### Limitations to the geotechnical properties of polymer-amended tailings”
+### Limitations to the geotechnical properties of polymer-amended tailings
 
-Hockley, D. and Rourke, H. 2018. Presentation to COSIA 2018 Oil Sands Innovation Summit. Calgary, Canada
+*Hockley, D. and Rourke, H. 2018. Presentation to COSIA 2018 Oil Sands Innovation Summit. Calgary, Canada*
 
-*The focus to date at oil sands operations has been on achieving stronger FFT by removing water and increasing the solids content.  Oil sands operators currently treat FFT with polymeric flocculants, followed by initial dewatering, thickening, centrifugation or air-drying.  These processes can result in significant increases in solids content. However, the further development of polymer-treated FFT into geotechnically viable material remains a challenge.* 
-
- *This study tested the following hypotheses:*
- - *There are fundamental limitations to the ability of polymer-treated FFT to consolidate, to drain or transmit water, and to gain strength*
- - *These limitations are due to colloidal and surface chemistry effects associated with FFT*
- - *The addition of polymer as is currently practiced does not address surface chemistry effects and may even exacerbates the associated limitations*
- - *The addition of both coagulant and polymer to FFT can produce materials with better geotechnical properties.* 
+This study tested the following hypotheses:
+ - There are fundamental limitations to the ability of polymer-treated FFT to consolidate, to drain or transmit water, and to gain strength
+ - These limitations are due to colloidal and surface chemistry effects associated with FFT
+ - The addition of polymer as is currently practiced does not address surface chemistry effects and may even exacerbates the associated limitations
+ - The addition of both coagulant and polymer to FFT can produce materials with better geotechnical properties...[[**Read More**](/publications_pages/2018_COSIA_limitations)]
 
 ### The risks of excess water on tailings facilities and its application to dam break studies
 
